@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋 I'm Joel!
 
-<!--
-**JoelKM/JoelKM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🦾 I’m a full-stack software developer
+- 🏠 I'm based in Valencia, Spain
+- 🤔 My working preference? Backend development 🤓
+- 📜 I write about tech and programming in a <a href="https://www.smarktek.com/">blog</a>
+- 🌱 I’m currently learning Python
+- 🤖 I’m looking to collaborate on innovative projects 
+- 📫 How to reach me: Social links (left sidebar) or at joelkasmor16@gmail.com
 
-Here are some ideas to get you started:
+## My stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend:
+
+### Frontend
+
+### Other
