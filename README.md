@@ -4,7 +4,6 @@
 - 🏠 I'm based in Valencia, Spain
 - 🤔 My working preference? Backend development 🤓
 - 📜 I write about tech and programming in a <a href="https://www.smarktek.com/">blog</a>
-- 🌱 I’m currently learning Python 🐍
 - 🤖 I’m looking to collaborate on innovative projects 
 - 📫 How to reach me: Social links (left sidebar) or joelkasmor16@gmail.com
 
