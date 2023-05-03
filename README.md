@@ -10,6 +10,7 @@
 
 ### Working rn:
 - [Auth to-do app](https://github.com/JoelKM/Auth-Todo-List)
+- [Real Time Mobile Chat App](https://github.com/JoelKM/Real-Time-Mobile-Chat)
 - [DePerrito Redux Discord bot](https://github.com/JoelKM/deperrito-redux.me)
 
 <details>
