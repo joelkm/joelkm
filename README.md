@@ -16,8 +16,7 @@
 <br/>
 <b> ⚙️ My Stack</b>
 
-<br/>
-<br/>
+<br>
 
 <table><tr><td valign="top" width="33%">
 ### Backend
@@ -58,7 +57,7 @@
 </div>
 </td></tr></table>
 
-<br/>
+<br>
 
 <b>🔥&nbsp;&nbsp;Github&nbsp;Stats</b>
     
