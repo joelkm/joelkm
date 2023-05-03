@@ -1,12 +1,15 @@
 # Hi there 👋 I'm Joel!
 
-## Me
+### About
 - 🦾 I’m a backend developer
 - 🏠 I'm based in Valencia, Spain
 - 🤔 My working preference? Node.js 🤓
 - 📜 I write about tech and programming in a <a href="https://www.smarktek.com/">blog</a>
 - 🤖 I’m looking to collaborate on innovative projects 
-- 📫 How to reach me: Social links (left sidebar) or joelkasmor16@gmail.com
+
+
+### Currently working in:
+
 
 <details>
 
@@ -51,3 +54,6 @@
 </table>
 </details>
 
+### 📫 How to reach me :
+
+![footer CR](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=90&section=footer)
