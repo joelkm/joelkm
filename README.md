@@ -14,7 +14,7 @@
 - [DePerrito Redux Discord bot](https://github.com/JoelKM/deperrito-redux.me)
 
 <br>
-<b> ⚙️ My Stack</b>
+### <b> ⚙️ My Stack</b>
 
 <br>
 
@@ -60,7 +60,7 @@
 
 <br>
 
-<b>🔥&nbsp;&nbsp;Github&nbsp;Stats</b>
+### <b>🔥&nbsp;&nbsp;Github&nbsp;Stats</b>
     
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoelKM&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Maxime github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelKM&layout=compact&theme=buefy&hide_border=true" /> |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
