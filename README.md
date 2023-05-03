@@ -14,7 +14,7 @@
 - [DePerrito Redux Discord bot](https://github.com/JoelKM/deperrito-redux.me)
 
 <br>
-### <b> ⚙️ My Stack</b>
+### <b>⚙️ My Stack</b>
 
 <br>
 
