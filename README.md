@@ -66,8 +66,8 @@
 
     
 ### 📫 How to reach me :
+
 <p align="center">
-    
     <a href="https://www.linkedin.com/in/joel-kassim-aa3515231/">
         <img alt="Joel Kassim | Linkedin" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
     </a>
