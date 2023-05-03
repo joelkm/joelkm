@@ -13,10 +13,7 @@
 - [Real Time Mobile Chat App](https://github.com/JoelKM/Real-Time-Mobile-Chat)
 - [DePerrito Redux Discord bot](https://github.com/JoelKM/deperrito-redux.me)
 
-<details>
-<summary>
-    <b> ⚙️ My Stack</b>
-</summary>
+<b> ⚙️ My Stack</b>
 <br/>
 <table><tr><td valign="top" width="33%">
 
@@ -57,18 +54,14 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 </td></tr></table>
-</details>
 
-<details>
-    <summary>
-        <b>🔥&nbsp;&nbsp;Github&nbsp;Stats</b>
-    </summary>
-    <br/>
+<b>🔥&nbsp;&nbsp;Github&nbsp;Stats</b>
+
+<br/>
     
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoelKM&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Maxime github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelKM&layout=compact&theme=buefy&hide_border=true" /> |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-</details>
     
 ### 📫 How to reach me :
 
