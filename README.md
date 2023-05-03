@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Joel!
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"> I'm Joel!
 
 ### About
 - 🦾 I’m a backend developer
