@@ -10,6 +10,8 @@
 
 ### Currently working in:
 
+<hr>
+
 <details>
 <summary>
     <b> ⚙️ - My Stack</b>
