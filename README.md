@@ -12,10 +12,10 @@
 
 <details>
 <summary>
-    <b> 🖥️ - Technologies</b>
+    <b> ⚙️ - My Stack</b>
 </summary>
 <br/>
-<table><tr><td valign="top" width="33%">
+<table style="background-color: #C0B7A3;"><tr><td valign="top" width="33%">
 
 ### Backend
 <div align="center">
