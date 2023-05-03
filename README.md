@@ -9,12 +9,12 @@
 
 
 ### Working rn:
-
-<hr>
+- [Auth to-do app](https://github.com/JoelKM/Auth-Todo-List)
+- [DePerrito Redux Discord bot](https://github.com/JoelKM/deperrito-redux.me)
 
 <details>
 <summary>
-    <b> ⚙️ - My Stack</b>
+    <b> ⚙️ My Stack</b>
 </summary>
 <br/>
 <table><tr><td valign="top" width="33%">
