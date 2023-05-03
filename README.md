@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Joel!
 
-##M e
+## Me
 - 🦾 I’m a backend developer
 - 🏠 I'm based in Valencia, Spain
 - 🤔 My working preference? Node.js 🤓
