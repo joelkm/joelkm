@@ -65,7 +65,7 @@
     </summary>
     <br/>
     
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoelKM&show_icons=true&include_all_commits=true&hide_border=true" alt="Maxime github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelKM&layout=compact&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoelKM&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Maxime github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelKM&layout=compact&theme=buefy&hide_border=true" /> |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 </details>
