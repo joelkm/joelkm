@@ -60,9 +60,7 @@
 </td></tr></table>
 
 </details>
-
-<br/>  
-
+<br/>
 <details>
     <summary>
         <b>🔥&nbsp;&nbsp;Github&nbsp;Stats</b>
