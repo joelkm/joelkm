@@ -14,6 +14,7 @@
 </summary>
 
 <table><tr><td>
+
 ### Backend:
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -24,6 +25,7 @@
 </p>
 </td></tr>
 <tr><td>
+
 ### Frontend:
 <p>
   <img alt="React" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -35,6 +37,7 @@
 </p>
 </td></tr>
 <tr><td>
+
 ### Other:
 <p>
   <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
