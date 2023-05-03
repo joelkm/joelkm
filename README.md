@@ -64,13 +64,14 @@
 <br/>  
 
 <details>
-<summary>
-    <b> 🖥️ - Github Stats  </b>
-</summary>
+    <summary>
+        <b>🔥&nbsp;&nbsp;Github&nbsp;Stats</b>
+    </summary>
+    <br/>
     
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JoelKM&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoelKM&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Maxime github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelKM&layout=compact&theme=buefy&hide_border=true" /> |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-<br/>  
 </details>
     
 ### 📫 How to reach me :
