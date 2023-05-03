@@ -16,8 +16,8 @@
 <br/>
 <b> ⚙️ My Stack</b>
 <br/>
-<table><tr><td valign="top" width="33%">
 
+<table><tr><td valign="top" width="33%">
 ### Backend
 <div align="center">
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -55,7 +55,9 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 </td></tr></table>
+
 <br/>
+
 <b>🔥&nbsp;&nbsp;Github&nbsp;Stats</b>
     
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoelKM&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Maxime github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoelKM&layout=compact&theme=buefy&hide_border=true" /> |
