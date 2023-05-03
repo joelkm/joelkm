@@ -10,7 +10,7 @@
 <details>
 
 <summary>
-###My Stack
+### My Stack
 </summary>
 |---|
 | ### Backend: |
