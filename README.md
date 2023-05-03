@@ -1,8 +1,9 @@
 # Hi there 👋 I'm Joel!
 
-- 🦾 I’m a full-stack software developer
+##M e
+- 🦾 I’m a backend developer
 - 🏠 I'm based in Valencia, Spain
-- 🤔 My working preference? Backend development 🤓
+- 🤔 My working preference? Node.js 🤓
 - 📜 I write about tech and programming in a <a href="https://www.smarktek.com/">blog</a>
 - 🤖 I’m looking to collaborate on innovative projects 
 - 📫 How to reach me: Social links (left sidebar) or joelkasmor16@gmail.com
@@ -10,7 +11,7 @@
 <details>
 
 <summary>
-<b> My Stack</b>
+<b>⚙️ - My Stack</b>
 </summary>
 
 <table><tr><td>
