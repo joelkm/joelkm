@@ -15,7 +15,7 @@
     <b> ⚙️ - My Stack</b>
 </summary>
 <br/>
-<table style="background-color: #C0B7A3;"><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="33%">
 
 ### Backend
 <div align="center">
