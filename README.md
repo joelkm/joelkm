@@ -8,7 +8,7 @@
 - 🤖 I’m looking to collaborate on innovative projects 
 
 
-### Currently working in:
+### Working rn:
 
 <hr>
 
