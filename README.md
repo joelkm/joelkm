@@ -13,12 +13,13 @@
 - [Real Time Mobile Chat App](https://github.com/JoelKM/Real-Time-Mobile-Chat)
 - [DePerrito Redux Discord bot](https://github.com/JoelKM/deperrito-redux.me)
 
-<br/>
+<br>
 <b> ⚙️ My Stack</b>
 
 <br>
 
 <table><tr><td valign="top" width="33%">
+  
 ### Backend
 <div align="center">
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
