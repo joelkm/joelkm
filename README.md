@@ -58,7 +58,7 @@
 </div>
 </td></tr></table>
 </details>
-<br/>
+
 <details>
     <summary>
         <b>🔥&nbsp;&nbsp;Github&nbsp;Stats</b>
