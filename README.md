@@ -1,15 +1,15 @@
 # Hi there! I'm Joel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
 ### About
-- 🦾 I’m a backend developer
+- 🦾 I’m a fullstack software developer
 - 🏠 I'm based in Valencia, Spain
-- 🤔 My working preference? Node.js 🤓
-- 📜 I write about tech and programming in a <a href="https://www.smarktek.com/">blog</a>
-- 🤖 I’m looking to collaborate on innovative projects 
+- 🤔 My working preference? Backend Development with Node.js 🤓
+- 📜 I cofounded this <a href="https://www.smarktek.com/">agency</a>
+- 🤖 I’m <a href="https://www.jojoel.com/">always working on something...</a>
 
 
 ### Working rn:
-- [Collaborative task manager](https://github.com/JoelKM/Auth-Todo-List)
+- [Task manager V2](https://github.com/JoelKM/Auth-Todo-List)
 - [Real Time Mobile Chat App](https://github.com/JoelKM/Real-Time-Mobile-Chat)
 - [DePerrito Redux Discord bot](https://github.com/JoelKM/deperrito-redux.me)
 
