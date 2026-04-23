@@ -1,10 +1,9 @@
 # Hi there! I'm Joel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
 ### About
-- 🦾 Software Developer & IT Consultant
+- 🦾 Software Engineer
 - 🏠 Valencia, Spain
 - 🤔 Working preference? Python 🤓
-- 🤖 <a href="https://www.jojoel.com/">Personal Website</a>
 
 
 <br>
