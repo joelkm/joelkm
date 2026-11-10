@@ -1,27 +1,12 @@
-# Hi there! I'm Joel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
+# Joel Kassim
 
-### About
-- 🦾 Software Engineer
-- 🏠 Valencia, Spain
-- 🤔 Working preference? Python 🤓
+Backend engineer. I build LLM agents and integrations inside customers' operations: payments, ERP, CRM.
 
+**Live products I built end to end**
 
-<br>
-    
-### 📫 How to reach me :
+- [PeekRank](https://peekrank.io): SEO SaaS whose MCP server lets AI assistants run paid queries under spend caps.
+- [Synerxgy](https://synerxgy.es): esports scouting platform, in production since Nov 2025.
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/joel-kassim-aa3515231/">
-        <img alt="Joel Kassim | Linkedin" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:joelkasmor16@gmail.com">
-        <img alt="Joel Kassim | Email" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://twitter.com/JoelMustDeploy">
-        <img alt="Joel Kassim | Twitter" width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/>
-    </a>
-</p>
+Client work is private.
 
-![footer CR](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=90&section=footer)
+Valencia, Spain · [contact@jojoel.com](mailto:contact@jojoel.com) · [LinkedIn](https://www.linkedin.com/in/joel-kassim/)
